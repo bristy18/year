@@ -1,0 +1,136 @@
+.banner1{
+    background-image: url('../resources/BannerImage.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    width: auto;
+    background-position: center;
+    opacity: 0.8;
+}
+.banner1 p,h1{
+    color: white;
+    font-weight: 800;
+}
+.banner1-text{
+    opacity: ;
+    align-content: center;
+    height: 600px;
+}
+.off, .holiday{
+    color:red;
+}
+.all{
+    font-weight: 700;
+    text-align: center;
+}
+.holiday{
+    font-size: 10px;
+    text-align: center;
+}
+.happy-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.banner3{
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    width: auto;
+    background-position: center;
+    opacity: 0.8;
+}
+.banner3-text{
+    padding: 120px 0px 0px 170px;
+    text-align: left;
+}
+.banner3-text h1{
+    font-weight: 900;
+    font-size: 45px;
+}
+.banner3-text p{
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+.banner3-text button{
+    background-color: transparent;
+    border-radius: 10px;
+    border:0px;
+    color: white;
+    font-weight: 700;
+    margin: 30px 0 0 25px;
+}
+.banner4{
+    background-color: rgb(244, 207, 213);
+    border-radius: 10px;
+    margin: 100px;
+    height: 400px;
+    line-height: 35px;
+}
+.banner4-text{
+    padding: 100px 0 100px 0;
+}
+.banner4 button{
+    color: white;
+    background-color: red;
+    border: 0px;
+    border-radius: 8px;
+    padding: 8px;
+    
+}
+.banner5{
+    display: flex;
+}
+#round{
+    padding: 20px;
+    border: 10px solid red;
+    border-radius: 210px;
+}
+.banner5-text1{
+    width: 300px;
+    margin-left: 100px;
+    margin-right: 145px;
+}
+.banner5-text3{
+    width: 300px;
+    margin-left: 145px;
+    
+}
+.banner6{
+    margin-left: 100px;
+    
+}
+#img3{
+    display: inline-block;
+    margin-left: 100px;
+    padding-top: 130px;
+}
+#img4{
+    display: inline-block;
+ margin-left: 150px;
+ margin-bottom: 180px;
+ width: 230px;
+}
+.banner5-text{
+    text-align: center;
+}
+.banner5-img{
+    background-image: url('../resources/Rectangle 2.png'),url('../resources/Rectangle 1.png');
+    background-position: bottom,top right;
+    background-repeat: no-repeat;
+    margin-right: 100px;
+    height: 650px;
+}
+.new{
+    color: red;
+    font-size: 15px;
+}
+.our{
+    font-size: 30px;
+    font-weight: 600;
+}
+.imgs{
+    margin-left: 100px;
+}
