@@ -1,5 +1,5 @@
 .banner1{
-    background-image: url('../resources/BannerImage.png');
+    background-image: url('../year/resources/BannerImage.png');
     background-repeat: no-repeat;
     height: 600px;
     width: auto;
@@ -11,7 +11,7 @@
     font-weight: 800;
 }
 .banner1-text{
-    opacity: ;
+    opacity: 0.8; ;
     align-content: center;
     height: 600px;
 }
